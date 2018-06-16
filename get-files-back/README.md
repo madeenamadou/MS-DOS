@@ -1,0 +1,1 @@
+Worm:Win32/Dorkbot!lnk est un virus qui change les fichiers en raccourcis. Get-File-Back est un programme DOS qui permet de restaurer les fichiers affectes par Worm:Win32/Dorkbot!lnk. Ce virus a la faculte de modifier les attributs des fichiers et de les rendre en liens. En corrigeant les attributs des fichiers, le programme permet de les recuperer.
